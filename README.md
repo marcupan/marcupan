@@ -39,6 +39,7 @@
 
 ### Hobby and interests:
 [<img align="left" alt="DemMarcupan | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+<br />
 - Draw
 - Study [CG, animation][shadertoy], design etc.
 - Playing guitar
