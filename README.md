@@ -1,7 +1,7 @@
 ### Hi there, I'm Dmytro 👋 - Front-end Developer !
 
-- ⚡ Had experience working alone on an app for Tv manufacturer, from start to release <br> (React Native | android TV => Google Play)
-- ⚡ As a part of a team - develop a platform for the British startup, from start to release <br> (react-native-web | ios, android, web => Google Play, App Store)
+- ⚡ Had experience working alone on an app for Tv manufacturer, from start to release <br> (React Native | AndroidTV => Google Play)
+- ⚡ As a part of a team - develop a platform for the British startup, from start to release <br> (React Native Web | IOS, Android, Web => Google Play, App Store)
 - 🌱 Currently, study and especially interested in technologies related to CG, animations: <br> react-native-reanimated, GLSL, WebGL, react-three-fiber, three.js
 - 🥅 My goal to become a full-stack front-end specialist, both with a high developer and designer skills
 
