@@ -23,7 +23,7 @@
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Jest" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />
+<img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png" />
 
 <br />
 <br />
