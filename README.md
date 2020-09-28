@@ -32,17 +32,13 @@
 - glsl, webgl, react-reanimated
 - react-three-fiber, three.js
 
-<br />
-
 ### Languages:
 - English (Upper-intermediate)
 - Chinese (Pre-intermediate)
 - Ukrainian (Native)
 
-<br />
-
 ### Hobby and interests:
-- Draw [<img align="right" alt="DemMarcupan | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+- Draw [<img alt="DemMarcupan | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 - Study [CG, animation][shadertoy], design etc.
 - Playing guitar
 
@@ -53,7 +49,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="marcupan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marcupan&show_icons=true&hide_border=true&hide=prs,issues,contribs" />
+  <img align="left" alt="marcupan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marcupan&show_icons=true&hide_border=true&hide=stars,commits" />
 </details>
 
 [linkedin]: https://www.linkedin.com/in/dem-marcupan-501aa7a7
