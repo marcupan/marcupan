@@ -24,8 +24,8 @@
 <img align="left" alt="Jest" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />
-<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/photoshop.svg" />
 
+<br />
 <br />
 
 ### Programming languages and Tools (study or interested):
