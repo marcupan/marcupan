@@ -21,24 +21,31 @@
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Apollo GraphQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/apollographql.svg" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
+<img align="left" alt="Jest" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jest.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" />
+<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/photoshop.svg" />
 
-### Programming languages and Tools (study || interested):
+<br />
+
+### Programming languages and Tools (study or interested):
 - glsl, webgl, react-reanimated
 - react-three-fiber, three.js
+
+<br />
 
 ### Languages:
 - English (Upper-intermediate)
 - Chinese (Pre-intermediate)
 - Ukrainian (Native)
 
+<br />
+
 ### Hobby and interests:
-- Draw ([<img align="left" alt="DemMarcupan | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]])
+- Draw [<img align="left" alt="DemMarcupan | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
 - Study [CG, animation][shadertoy], design etc.
 - Playing guitar
 
-<br />
 <br />
 
 ---
