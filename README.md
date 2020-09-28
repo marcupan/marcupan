@@ -38,7 +38,8 @@
 - Ukrainian (Native)
 
 ### Hobby and interests:
-- Draw [<img alt="DemMarcupan | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+[<img align="left" alt="DemMarcupan | behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
+- Draw
 - Study [CG, animation][shadertoy], design etc.
 - Playing guitar
 
