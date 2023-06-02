@@ -10,7 +10,7 @@
 🥅 My goal is to be a Senior Engineer or Software Architect position. 
 
 ### Connect with me:
-[<img align="left" alt="marcupan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="padding: 2px; border-radius: 2px; background-color: #fff;" />][linkedin]
+[<img align="left" alt="marcupan | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
 
 <br />
 
