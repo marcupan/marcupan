@@ -1,13 +1,5 @@
 ### Hi there, I'm Dmytro 👋 - Front-end Developer !
 
-- ⚡ Had experience working alone on an app for a TV manufacturer, from start to release <br> (React Native | AndroidTV)
-- ⚡ As a part of a team - developed a platform for the British startup, from start to release <br> (React Native Web | IOS, Android, Web)
-- ⚡ Worked on multiple UI component systems <br> (Stencil.js, Storybook, React, Angular, Vue)
-- ⚡ Implemented a large web app with micro frontends and 3D sandbox <br> (React, react-three-fiber, Formik, React-PDF, Single-SPA)
-<br />
-
-🌱 Currently, study and especially interested: Rust, GLSL, WGSL, Blender. <br />
-
 Driven and dedicated JavaScript developer with a strong desire to excel in complex
 projects.<br />
 Aspiring to progress from a skilled developer to a Senior Engineer and ultimately evolve
@@ -16,6 +8,14 @@ Passionate about tackling challenging technical problems and delivering scalable
 software solutions.<br />
 Open to exploring various languages, frameworks and technologies to broaden my skill set
 and contribute to cutting-edge developments in the industry.
+
+- ⚡ Had experience working alone on an app for a TV manufacturer, from start to release <br> (React Native | AndroidTV)
+- ⚡ As a part of a team - developed a platform for the British startup, from start to release <br> (React Native Web | IOS, Android, Web)
+- ⚡ Worked on multiple UI component systems <br> (Stencil.js, Storybook, React, Angular, Vue)
+- ⚡ Implemented a large web app with micro frontends and 3D sandbox <br> (React, react-three-fiber, Formik, React-PDF, Single-SPA)
+<br />
+
+🌱 Currently, study and especially interested: Rust, GLSL, WGSL, Blender. <br />
  
 
 ### Connect with me:
