@@ -7,7 +7,16 @@
 <br />
 
 🌱 Currently, study and especially interested: Rust, GLSL, WGSL, Blender. <br />
-🥅 My goal is to be a Senior Engineer or Software Architect position. 
+
+Driven and dedicated JavaScript developer with a strong desire to excel in complex
+projects.<br />
+Aspiring to progress from a skilled developer to a Senior Engineer and ultimately evolve
+into a Software Architect.<br />
+Passionate about tackling challenging technical problems and delivering scalable
+software solutions.<br />
+Open to exploring various languages, frameworks and technologies to broaden my skill set
+and contribute to cutting-edge developments in the industry.
+ 
 
 ### Connect with me:
 [<img align="left" alt="marcupan | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
