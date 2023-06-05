@@ -33,6 +33,7 @@ and contribute to cutting-edge developments in the industry.
   - react-three-fiber
   - react-navigation
   - react-native-reanimated
+  - react-spring
   - React PDF
   - React Query
   - Formik (yup)
@@ -44,19 +45,20 @@ and contribute to cutting-edge developments in the industry.
 - Vue
 - Svelte
 - Storybook
-- Firebase
-- Node.js (express, Nest)
+- Three.js
 - GraphQL
 - Apollo
 - RxJS
+- Firebase
 - Prisma
 - Jest
 - tRPC (zod)
-- Three.js
+- Node.js (express, Nest)
 - Tailwind
 - Webpack
 - Vite
 - Figma
+- ffmpeg
 <br />
 <br />
 
