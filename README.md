@@ -1,7 +1,6 @@
 ### Hi there, I'm Dmytro 👋 - Front-end Developer !
 
-Driven and dedicated JavaScript developer with a strong desire to excel in complex
-projects.<br />
+Driven and dedicated JavaScript developer with 7 years of experience and a strong desire to excel in complex projects.<br />
 Aspiring to progress from a skilled developer to a Senior Engineer and ultimately evolve
 into a Software Architect.<br />
 Passionate about tackling challenging technical problems and delivering scalable
