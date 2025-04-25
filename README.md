@@ -1,11 +1,11 @@
-### Hi there, I'm Dmytro 👋 - Front-end Developer !
+### Hi there, I'm Dmytro 👋 - Front-end Developer!
 
 Driven and dedicated JavaScript developer with 7 years of experience and a strong desire to excel in complex projects.<br />
 Aspiring to progress from a skilled developer to a Senior Engineer and ultimately evolve
 into a Software Architect.<br />
 Passionate about tackling challenging technical problems and delivering scalable
 software solutions.<br />
-Open to exploring various languages, frameworks and technologies to broaden my skill set
+Open to exploring various languages, frameworks, and technologies to broaden my skill set
 and contribute to cutting-edge developments in the industry.
 
 - ⚡ Had experience working alone on an app for a TV manufacturer, from start to release <br> (React Native | AndroidTV)
@@ -52,7 +52,7 @@ and contribute to cutting-edge developments in the industry.
 - Prisma
 - Jest
 - tRPC (zod)
-- Node.js (express, Nest)
+- Node.js (Express, Nest)
 - Tailwind
 - Webpack
 - Vite
