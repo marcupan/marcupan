@@ -1,84 +1,72 @@
-### Hi there, I'm Dmytro 👋 - Front-end Developer!
+### Hi there, I'm Dmytro 👋
 
-Driven and dedicated JavaScript developer with 7 years of experience and a strong desire to excel in complex projects.<br />
-Aspiring to progress from a skilled developer to a Senior Engineer and ultimately evolve
-into a Software Architect.<br />
-Passionate about tackling challenging technical problems and delivering scalable
-software solutions.<br />
-Open to exploring various languages, frameworks, and technologies to broaden my skill set
-and contribute to cutting-edge developments in the industry.
+**Senior Frontend Engineer (8+ years) | Aspiring Fullstack & Solution Architect**
 
-- ⚡ Had experience working alone on an app for a TV manufacturer, from start to release <br> (React Native | AndroidTV)
-- ⚡ As a part of a team - developed a platform for the British startup, from start to release <br> (React Native Web | IOS, Android, Web)
-- ⚡ Worked on multiple UI component systems <br> (Stencil.js, Storybook, React, Angular, Vue)
-- ⚡ Implemented a large web app with micro frontends and 3D sandbox <br> (React, react-three-fiber, Formik, React-PDF, Single-SPA)
-<br />
-
-🌱 Currently, study and especially interested: Rust, GLSL, WGSL, Blender. <br />
- 
-
-### Connect with me:
-[<img align="left" alt="marcupan | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
-
-<br />
-
-### Programming languages and Tools (with working experience):
-- HTML, 
-- CSS (scss)
-- JS (TS)
-- React
-  - React Native
-  - react-native-web
-  - react-three-fiber
-  - react-navigation
-  - react-native-reanimated
-  - react-spring
-  - React PDF
-  - React Query
-  - Formik (yup)
-- Next.js
-- Redux
-    - Redux Toolkit
-- Stencil
-- Angular
-- Vue
-- Svelte
-- Storybook
-- Three.js
-- GraphQL
-- Apollo
-- RxJS
-- Firebase
-- Prisma
-- Jest
-- tRPC (zod)
-- Node.js (Express, Nest)
-- Tailwind
-- Webpack
-- Vite
-- Figma
-- ffmpeg
-<br />
-<br />
-
-### Programming languages and Tools (without working experience):
-- Rust
-- WGSL, GLSL
-- Blender
-
-### Languages:
-- English (Upper-intermediate)
-- Chinese (Pre-intermediate)
-- Ukrainian (Native)
-
-### Hobby and interests:
-- [Draw, Blender][behance]
-- [CG, animation][shadertoy]
-- Playing guitar
-
-<br />
+I am an experienced engineer with a strong background in building high-load web applications, complex data visualization tools, and cross-platform solutions.
+Currently, I am expanding my expertise into **Fullstack Development** and **Data Science**, aiming to leverage my skills in UI Engineering and 3D Visualization to build advanced, data-driven software.
 
 ---
+
+### ⚡ Key Achievements & Experience
+
+- 🛠 **Infrastructure Dashboard:** Developed a specialized dashboard for Terraform state visualization with a GitHub-like diff interface.
+- 📺 **Smart TV Scaling:** Built and optimized an AndroidTV app for Kivi TV (scaled to **15k+ active users**).
+- 📱 **Cross-Platform Ecosystem:** Engineered a Web/iOS/Android solution using **React Native Web** (~80% code reuse) for a UK-based mobility startup.
+- 🧊 **Hardware Simulation Platform:** Architected a Micro-Frontend system with **3D sandboxes** (Three.js) and automated PDF generation.
+- 🎨 **UI Systems:** Created and maintained multiple UI component libraries using Stencil.js, Storybook, and React.
+
+<br />
+
+### 🌱 Current Focus & Learning
+I am actively researching and upskilling in:
+- **Python Ecosystem:** Data Science, Machine Learning, Pandas, NumPy.
+- **Backend Architecture:** Advanced Node.js patterns, System Design.
+- **Graphics Programming:** Rust, GLSL, WGSL, Blender (deep dive).
+
+<br />
+
+### 🛠 Technical Stack
+
+**Core & Frontend:**
+- JavaScript (ES6+), TypeScript, HTML5, CSS (SCSS/Modules)
+- **React Ecosystem:** React, Next.js, React Native, React Native Web
+- **State & Data:** Redux Toolkit, React Query (TanStack), RxJS, Apollo GraphQL
+
+**Backend, Cloud & DevOps:**
+- Node.js (Express, NestJS), tRPC
+- Docker, Terraform (Infrastructure as Code)
+- Firebase, Prisma, PostgreSQL
+
+**Graphics & Visualization:**
+- Three.js, React-three-fiber, WebGL
+- Canvas API, SVG, FFmpeg
+- Blender (3D Modeling)
+
+**Tools & Testing:**
+- Jest, Vite, Webpack, Turborepo
+- Figma, Storybook
+
+<br />
+
+### 🗣 Languages
+- **Ukrainian:** Native
+- **English:** Upper-Intermediate
+- **Chinese:** Pre-Intermediate
+
+<br />
+
+### 🎨 Hobbies & Creative Coding
+- [Draw, Blender 3D][behance]
+- [CG, Shaders, Animation][shadertoy]
+- Playing guitar
+
+---
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+
+<br />
+<br />
 
 [linkedin]: https://www.linkedin.com/in/dem-marcupan-501aa7a7
 [behance]: https://www.behance.net/DemMarcupan
