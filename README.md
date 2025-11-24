@@ -56,9 +56,8 @@ I am actively researching and upskilling in:
 <br />
 
 ### 🎨 Hobbies & Creative Coding
-- [Draw, Blender 3D][behance]
+- [Draw, Blender, Unreal Engine][behance]
 - [CG, Shaders, Animation][shadertoy]
-- Playing guitar
 
 ---
 
