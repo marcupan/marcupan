@@ -38,7 +38,7 @@ Currently expanding into **Data Science** and **Systems Engineering** (Rust/Pyth
 <br />
 
 ### 🔥 Activity Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=marcupan)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcupan)](https://git.io/streak-stats)
 
 <br />
 
