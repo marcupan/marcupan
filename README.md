@@ -1,6 +1,6 @@
 ### Hi there, I'm Dmytro 👋
 
-**Senior Front-End Engineer & UI Architect**
+**Senior Software Engineer – Front-End**
 
 I am a product-oriented engineer with **8+ years of experience** building high-load dashboards, complex B2B platforms (Cloud/IoT), and cross-platform applications.
 My expertise lies at the intersection of **System Architecture**, **Performance Optimization**, and **Advanced Visualization** (WebGL/3D).
