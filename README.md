@@ -37,8 +37,8 @@ Currently expanding into **Data Science** and **Systems Engineering** (Rust/Pyth
 
 <br />
 
-### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcupan&layout=compact&theme=dark&hide_border=true)
+### 🔥 Activity Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcupan&theme=dark&hide_border=true)
 
 <br />
 
