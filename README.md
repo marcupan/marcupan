@@ -40,7 +40,7 @@ Currently expanding into **Data Science** and **Systems Engineering** (Rust/Pyth
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcupan&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Dmytro's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcupan&show_icons=true&theme=dark&hide_border=true" alt="Dmytro's GitHub Stats" />
 </p>
 
 <br />
