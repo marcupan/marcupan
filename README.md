@@ -37,9 +37,8 @@ Currently expanding into **Data Science** and **Systems Engineering** (Rust/Pyth
 
 <br />
 
-### 📈 GitHub Stats
-
-![Dmytro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcupan&show_icons=true&theme=dark&hide_border=true)
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcupan&layout=compact&theme=dark&hide_border=true)
 
 <br />
 
