@@ -1,52 +1,43 @@
-### Hi there, I'm Dmytro 👋
+### Dmytro Zhovtobryukh
 
-**Senior Software Engineer – Front-End**
+**Senior Full-Stack Engineer · React / Node.js / TypeScript · LLM apps (Python)** · Kyiv, Ukraine
 
-I am a product-oriented engineer with **8+ years of experience** building high-load dashboards, complex B2B platforms (Cloud/IoT), and cross-platform applications.
-My expertise lies at the intersection of **System Architecture**, **Performance Optimization**, and **Advanced Visualization** (WebGL/3D).
+I build production web products: React and TypeScript applications, real-time systems and the API contracts behind them. 9+ years, about two of them on commercial backend work with Node.js and NestJS. Most interested in defence and dual-use data platforms, AI products and event-driven systems, and growing into embedded and edge systems.
 
-Currently expanding into **Data Science** and **Systems Engineering** (Rust/Python) to build the next generation of data-intensive software.
+### Commercial work
 
----
+| Where | What |
+|---|---|
+| **Multi-tenant B2B SaaS platform** | API contracts and the client write model for an eventually-consistent, event-driven backend |
+| **Infrastructure-as-code SaaS** | Streamed LLM explanations in the production UI, Terraform plan diff viewer, multi-tenant RBAC, small Python backend changes |
+| **IoT and hardware simulation** | Micro-frontends, a Stencil design system (52 components), Node.js backend-for-frontend, delivery to AKS |
+| **Global mobility platform** | NestJS GraphQL backend-for-frontend, authentication, one React Native Web codebase for web, iOS and Android |
+| **Broadcast and Smart TV** | Live-stream effects console (React, WebSocket, Node.js + FFmpeg with two backend engineers), an Android TV app built solo |
 
-### ⚡ Key Highlights & Engineering Impact
+Open source: TV focus support in [react-native-webview #567](https://github.com/react-native-webview/react-native-webview/pull/567), which grew out of [my issue #366](https://github.com/react-native-webview/react-native-webview/issues/366).
 
-- 🛠 **Infrastructure Tooling (Scalr):** Architected the core dashboard for Terraform state management, featuring a GitHub-style "Diff Viewer" for infrastructure code.
-- 🧊 **3D Simulation (Star):** Built a hardware simulation module using **Three.js & WebGL** integrated into a Micro-Frontend architecture.
-- 📱 **Cross-Platform Scaling (Clearmove):** Engineered a unified Web/iOS/Android solution using **React Native Web**, achieving ~85% code reuse.
-- 📺 **Performance (Cosmonova):** Optimized Smart TV apps for low-power devices, scaling to **15k+ active users**.
-- 🎨 **UI Systems:** Designed and maintained scalable UI component libraries (Ant Design, Stencil) for distributed teams.
+### Practice projects
 
-<br />
+Self-directed and not commercial. I build them to practise what I want to work on next.
 
-### 🛠 Technical Stack
+- [**osint-analyzer**](https://github.com/marcupan/osint-analyzer): multi-source RAG with a LangGraph agent that writes cited reports (Python, FastAPI, Next.js)
+- [**docqa-rag**](https://github.com/marcupan/docqa-rag): RAG service with local-model support, retries and a circuit breaker (Python, Weaviate, PostgreSQL)
+- [**flagsmith-lite**](https://github.com/marcupan/flagsmith-lite): feature-flag service with a webhook delivery state machine (Fastify, PostgreSQL, Redis)
 
-**Core Expertise (Commercial):**
-- **Languages:** TypeScript, JavaScript (ES6+), HTML5, CSS (SCSS/Modules)
-- **Frameworks:** React, Next.js, React Native, React Native Web
-- **Architecture:** Micro-frontends (Single-SPA), Monorepos (Turborepo), System Design
-- **State & Data:** React Query, Redux Toolkit, RxJS, GraphQL (Apollo), WebSockets
+### Currently learning
 
-**Graphics & Creative Coding:**
-- **WebGL:** Three.js, React-three-fiber, GLSL Shaders
-- **Tools:** Blender (3D Modeling), Canvas API, SVG
+Embedded systems in C++ on ESP32-S3, with 12 course assignments in public, written in Ukrainian:
 
-**Backend & Infrastructure (R&D):**
-- **Stack:** Node.js (NestJS), Python (Pandas/NumPy), Rust (Wasm)
-- **DevOps:** Docker, Terraform (IaC concepts), AWS/Azure (Basics)
+- [Servo from a potentiometer and an encoder](https://github.com/marcupan/embedded-basic-module-3.5)
+- [ADC filtering and calibration](https://github.com/marcupan/embedded-basic-module-3.1-3.2)
+- [Fan control on a hardware timer](https://github.com/marcupan/embedded-basic-module-2.5)
 
-<br />
+The other repositories here are study exercises.
 
-### 🎨 Creative Portfolio
-Beyond code, I explore the visual side of technology:
-- **[Shadertoy Profile][shadertoy]** (GLSL Experiments)
-- **[Behance Portfolio][behance]** (3D & Design)
+### Stack
 
----
+**Commercial:** TypeScript, React, Next.js, Node.js, NestJS, GraphQL, WebSockets, React Native, Docker, Azure Pipelines
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+**Practice:** Python, FastAPI, RAG, LangGraph, PostgreSQL, Redis, C++ on ESP32
 
-[linkedin]: https://www.linkedin.com/in/dem-marcupan-501aa7a7
-[behance]: https://www.behance.net/DemMarcupan
-[shadertoy]: https://www.shadertoy.com/user/marcupan
+[LinkedIn](https://www.linkedin.com/in/dmytro-zhovtobryukh) · [Shadertoy](https://www.shadertoy.com/user/marcupan) · [Behance](https://www.behance.net/DemMarcupan)
